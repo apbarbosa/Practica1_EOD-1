@@ -15,7 +15,7 @@ public class Principal {
 		        	System.out.println("BIENVENIDOS A LA AEREOLINEA DEL MANY");
 		        	System.out.println("___________________________________________________________________________");
 		        	System.out.println("___________________________________________________________________________");
-		        	System.out.println("¿Que es lo que decseas realizar?");
+		        	System.out.println("Â¿Que es lo que decseas realizar?");
 		        	System.out.println("                                                                               ");
 			        System.out.println("1.- REGISTRAR ASIENTO Y ASIGNARLE UN PASAJERO ");
 			        System.out.println("                                                                                ");
@@ -39,7 +39,7 @@ public class Principal {
 		     
 		        		
 		        	
-		        	
+		// Hola
 		        	
 		        	
 		        	}
